@@ -1,0 +1,10 @@
+training windows: 246 from 52 clips
+test windows: 385 from 2 unseen sessions (385 windows)
+Baum–Welch: 5 iterations, log-likelihood -584.46 → -565.11
+training Viterbi accuracy: 0.9878
+test Viterbi accuracy: 0.9247   (emission-only baseline 0.9169)
+test accuracy on unusual-order session: 0.8882
+  still     n=  93  sensitivity=0.839  specificity=0.983
+  standing  n=  84  sensitivity=0.869  specificity=0.950
+  walking   n= 123  sensitivity=0.976  specificity=0.977
+  jumping   n=  85  sensitivity=1.000  specificity=0.990
