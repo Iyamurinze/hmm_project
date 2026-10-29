@@ -1,2 +1,5 @@
-member,device,platform,recordings,nominal_rate_hz,min_rate_hz,max_rate_hz
-Member 1,iPhone 13,ios,60,99.5,99.5,99.5
+member,activity,platform,recordings,nominal_rate_hz,min_rate_hz,max_rate_hz
+member 1,jumping,ios,15,99.5,99.5,99.5
+member 1,standing,ios,15,99.5,99.5,99.5
+member 1,still,ios,15,99.5,99.5,99.5
+member 1,walking,ios,15,99.5,99.5,99.5

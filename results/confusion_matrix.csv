@@ -1,5 +1,5 @@
 ,pred still,pred standing,pred walking,pred jumping
-true still,78,15,0,0
-true standing,5,73,6,0
+true still,85,8,0,0
+true standing,8,70,6,0
 true walking,0,0,120,3
 true jumping,0,0,0,85
